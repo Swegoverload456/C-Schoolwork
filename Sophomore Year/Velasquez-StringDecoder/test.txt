@@ -1,0 +1,78 @@
+if(in ==== 'A' || in == 'a'){
+        return 'H';
+    }
+    else if(in == 'B' || in == 'b'){
+        return 'I';
+    }
+    else if(in == 'C' || in == 'c'){
+        return 'V';
+    }
+    else if(in == 'D' || in == 'd'){
+        return 'J';
+    }
+    else if(in == 'E' || in == 'e'){
+        return 'K';
+    }
+    else if(in == 'F' || in == 'f'){
+        return 'W';
+    }
+    else if(in == 'G' || in == 'g'){
+        return 'L';
+    }
+    else if(in == 'H' || in == 'h'){
+        return 'A';
+    }
+    else if(in == 'I' || in == 'i'){
+        return 'M';
+    }
+    else if(in == 'J' || in == 'j'){
+        return 'Y';
+    }
+    else if(in == 'K' || in == 'k'){
+        return 'N';
+    }
+    else if(in == 'L' || in == 'l'){
+        return 'B';
+    }
+    else if(in == 'M' || in == 'm'){
+        return 'X';
+    }
+    else if(in == 'N' || in == 'n'){
+        return 'O';
+    }
+    else if(in == 'O' || in == 'o'){
+        return 'Z';
+    }
+    else if(in == 'P' || in == 'p'){
+        return 'C';
+    }
+    else if(in == 'Q' || in == 'q'){
+        return 'T';
+    }
+    else if(in == 'R' || in == 'r'){
+        return 'P';
+    }
+    else if(in == 'S' || in == 's'){
+        return 'U';
+    }
+    else if(in == 'T' || in == 't'){
+        return 'D';
+    }
+    else if(in == 'U' || in == 'u'){
+        return 'Q';
+    }
+    else if(in == 'V' || in == 'v'){
+        return 'S';
+    }
+    else if(in == 'W' || in == 'w'){
+        return 'R';
+    }
+    else if(in == 'X' || in == 'x'){
+        return 'E';
+    }
+    else if(in == 'Y' || in == 'y'){
+        return 'G';
+    }
+    else if(in == 'Z' || in == 'z'){
+        return 'F';
+    }
